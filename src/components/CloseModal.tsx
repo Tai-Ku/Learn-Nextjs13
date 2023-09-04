@@ -13,7 +13,7 @@ const CloseModal = () => {
       aria-label="close modal"
       onClick={() => router.back()}
     >
-      <X className="h-4 w-4" />
+      <X className="h-4 w-4 " />
     </Button>
   );
 };
